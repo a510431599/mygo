@@ -131,7 +131,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>test.app</mainClass>
+                            <mainClass>app.app</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
