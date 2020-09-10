@@ -1,4 +1,4 @@
-FROM centos
+FROM mayan31370/openjdk-alpine-with-chinese-timezone:8-jdk
 MAINTAINER The app Project <heng.wang@jiayuntong.com>
 COPY jdk1.8 jdk1.8
 add target/mygo-1.0-SNAPSHOT-jar-with-dependencies.jar mygo-1.0-SNAPSHOT-jar-with-dependencies.jar
