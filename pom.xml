@@ -131,7 +131,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>wc</mainClass>
+                            <mainClass>test.app</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
